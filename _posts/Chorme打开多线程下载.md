@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Chorme打开多线程下载'
+subtitle: 'Chrome,High speed! '
+date: 2020-03-31
+categories: 发现
+cover: 'https://s1.ax1x.com/2020/08/17/deAccT.png'
+tags: Chrome
+---
+
+打开 `chrome://flags/`
+
+![aOd52F.png](https://s1.ax1x.com/2020/08/11/aOd52F.png)
+
+搜索 `Parallel downloading`  ,切换为 `Enabled`  即可.
+
+![aOd48U.png](https://s1.ax1x.com/2020/08/11/aOd48U.png)

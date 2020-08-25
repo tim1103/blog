@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Pixelmap-在线地理图表制作'
+subtitle: '地图'
+date: 2020-03-27
+categories: 发现
+cover: 'https://s1.ax1x.com/2020/08/17/deVteg.png'
+tags: map
+---
+
+网站：[http://pixelmap.amcharts.com/](http://pixelmap.amcharts.com/)
+
+站长可以来做个访客分布图,效果很不错
+
+![](https://s1.ax1x.com/2020/08/17/deVteg.png)
